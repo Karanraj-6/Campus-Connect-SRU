@@ -39,7 +39,7 @@ export default function FAQPage() {
           onCloseMobileSidebar={() => setMobileSidebarOpen(false)}
         />
         <main className="flex-1">
-          <div className="pt-5 px-6 pb-6 lg:pt-6 lg:px-8 lg:pb-8">
+          <div className="pt-5 px-6 pb-6 lg:pt-6 lg:px-8 lg:pb-8 scroll max-w-5xl mx-auto h-full">
             <ChatInterface title="AI Career Assistant" type="faq" />
           </div>
         </main>
