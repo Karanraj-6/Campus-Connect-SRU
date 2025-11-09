@@ -4,7 +4,7 @@ CampusConnect is a modern, feature-rich platform designed to connect students an
 
 ## Live Demo
 
-[Link to Live Demo](https://capstone-project-next-js.vercel.app/login)
+[Link to Live Demo](https://ai-campusconnect-nextjs-c4lw74b2r.vercel.app/auth/login)
 
 ## Features
 
